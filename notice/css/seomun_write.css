@@ -1,0 +1,61 @@
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background-color: #000;
+}
+main {
+    width: 100%;
+}
+section {
+    width: 86.6425992%;
+    max-width: 1440px;
+    margin: auto;
+}
+form {
+    width: 100%;
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 30px;
+}
+table {
+    width: 100%;
+    font-size: 16px;
+    color: #fff;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+td {
+    padding: 20px 10px;
+    border: 1px solid #fff;
+}
+
+.subject input {
+    width: 70%;
+    height: 30px;
+    font-size: 16px;
+}
+.login input {
+    width: 50%;
+    height: 30px;
+    font-size: 16px;
+}
+.date input {
+    width: 20.5%;
+    height: 30px;
+    font-size: 16px;
+}
+.content textarea {
+    width: 80%;
+    height: 50vmin;
+    font-size: 16px;
+}
+.save input {
+    width: 30%;
+    height: 30px;
+    font-size: 16px;
+}
+.save td:last-child input {
+    width: 23%;
+} 
